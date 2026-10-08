@@ -108,17 +108,6 @@ An AI-powered portfolio assistant that uses a structured knowledge base, webhook
 
 [![View Project](https://img.shields.io/badge/View_Project-2563EB?style=flat-square)](https://marlon-03.vercel.app/)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marlon-03&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marlon-03&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
